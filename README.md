@@ -6,4 +6,5 @@ should have started using it years ago!
 
 the rain in spain falls mainly on th ehills
 
+this will be a conflict
 test merge conflicts
